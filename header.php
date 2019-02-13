@@ -72,9 +72,6 @@
                 </div>
                 <ul>
                   <li>
-                    <a href="#"><i class="os-icon os-icon-user-male-circle2"></i><span>Profile Details</span></a>
-                  </li>
-                  <li>
                     <a href="#"><i class="os-icon os-icon-signs-11"></i><span>Logout</span></a>
                   </li>
                 </ul>
@@ -104,7 +101,7 @@
                 </div>
                 <ul>
                   <li>
-                    <a href="#"><i class="os-icon os-icon-ui-49"></i><span>Profile Settings</span></a>
+                    <a href="profil.php"><i class="os-icon os-icon-ui-49"></i><span>Profile Settings</span></a>
                   </li>
                   <li>
                     <a href="#" data-placement="right" data-toggle="tooltip" title=""  data-original-title="Coming Soon"><i class="os-icon os-icon-hierarchy-structure-2"></i><span>Kepengurusan</span></a>
